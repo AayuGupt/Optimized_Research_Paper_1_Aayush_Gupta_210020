@@ -83,10 +83,10 @@ you will get results in vis/
 I have also added a python file to visualize Grount Truth density map: file: data/visualize_density_GT.py
 Update the sources of the image (sample added in code)
 
-
+## Project Report
+[Project Report](Aayush_Gupta_210020_report.pdf) uploaded
 
 ## Citation
-If you find this work helpful in your research, please cite the following:
 ```
 @inproceedings{pengMPCount2024,
   title = {Single Domain Generalization for Crowd Counting},
