@@ -1,0 +1,62 @@
+Start testing at 2024-10-15 17:28:30
+Loading checkpoint from logs/stb/best.pth
+Start testing at 2024-10-15 17:29:18
+Loading checkpoint from logs/stb/best.pth
+Testing results: mae: 102.5953 mse: 33502.4964 
+Testing results saved to logs/stb
+End testing at 2024-10-15 17:30:49
+Start testing at 2024-10-17 20:28:19
+Loading checkpoint from logs/stb/best.pth
+Testing results: mae: 102.5953 mse: 183.0369 
+Testing results saved to logs/stb
+End testing at 2024-10-17 20:29:43
+Start testing at 2024-11-05 13:14:59
+Loading checkpoint from logs/stb/best.pth
+Testing results: mae: 102.5953 mse: 183.0369 
+Testing results saved to logs/stb
+End testing at 2024-11-05 13:16:33
+Start testing at 2024-11-05 13:17:19
+Loading checkpoint from logs/stb/best.pth
+Testing results: mae: 286.0754 mse: 427.1910 
+Testing results saved to logs/stb
+End testing at 2024-11-05 13:18:09
+Start testing at 2024-11-05 13:22:01
+Loading checkpoint from logs/stb/best.pth
+Start testing at 2024-11-05 13:22:36
+Loading checkpoint from logs/stb/best.pth
+Start testing at 2024-11-05 13:23:11
+Loading checkpoint from logs/stb/best.pth
+Testing results: mae: 336.0968 mse: 491.4511 
+Testing results saved to logs/stb
+End testing at 2024-11-05 13:23:55
+Start testing at 2024-11-05 13:24:25
+Loading checkpoint from logs/stb/best.pth
+Start testing at 2024-11-05 13:27:11
+Loading checkpoint from logs/stb/best.pth
+Start testing at 2024-11-05 13:28:42
+Loading checkpoint from logs/stb/best.pth
+Testing results: mae: 102.5953 mse: 183.0369 
+Testing results saved to logs/stb
+End testing at 2024-11-05 13:30:09
+Start testing at 2024-11-05 13:30:30
+Loading checkpoint from logs/stb/best.pth
+Testing results: mae: 102.5953 mse: 183.0369 
+Testing results saved to logs/stb
+End testing at 2024-11-05 13:31:59
+Start testing at 2024-11-05 15:53:16
+Loading checkpoint from logs/stb/best.pth
+Testing results: mae: 102.5953 mse: 183.0369 
+Testing results saved to logs/stb
+End testing at 2024-11-05 15:54:21
+Start testing at 2024-11-06 10:20:46
+Loading checkpoint from logs/stb/best.pth
+Testing results: mae: 286.0754 mse: 427.1910 
+Testing results saved to logs/stb
+End testing at 2024-11-06 10:21:24
+Start testing at 2024-11-06 10:38:12
+Loading checkpoint from logs/stb/best.pth
+Start testing at 2024-11-06 10:46:01
+Loading checkpoint from logs/stb/best.pth
+Testing results: mae: 102.5953 mse: 183.0369 
+Testing results saved to logs/stb
+End testing at 2024-11-06 10:47:06

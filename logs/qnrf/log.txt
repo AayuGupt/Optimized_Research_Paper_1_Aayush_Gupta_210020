@@ -1,0 +1,51 @@
+Start testing at 2024-10-15 17:55:03
+Loading checkpoint from logs/qnrf/best.pth
+Testing results: mae: 64.8860 mse: 11837.0949 
+Testing results saved to logs/qnrf
+End testing at 2024-10-15 17:56:27
+Start testing at 2024-10-15 17:57:05
+Loading checkpoint from logs/qnrf/best.pth
+Testing results: mae: 12.6167 mse: 607.5703 
+Testing results saved to logs/qnrf
+End testing at 2024-10-15 18:00:14
+Start testing at 2024-10-17 20:30:13
+Loading checkpoint from logs/qnrf/best.pth
+Testing results: mae: 64.8860 mse: 108.7984 
+Testing results saved to logs/qnrf
+End testing at 2024-10-17 20:31:37
+Start testing at 2024-10-17 20:32:24
+Loading checkpoint from logs/qnrf/best.pth
+Testing results: mae: 12.6167 mse: 24.6489 
+Testing results saved to logs/qnrf
+End testing at 2024-10-17 20:35:34
+Start testing at 2024-11-06 10:21:43
+Loading checkpoint from logs/qnrf/best.pth
+Testing results: mae: 260.8781 mse: 401.7178 
+Testing results saved to logs/qnrf
+End testing at 2024-11-06 10:22:18
+Start testing at 2024-11-06 10:22:30
+Loading checkpoint from logs/qnrf/best.pth
+Testing results: mae: 98.0910 mse: 126.4833 
+Testing results saved to logs/qnrf
+End testing at 2024-11-06 10:23:27
+Start testing at 2024-11-06 10:24:51
+Loading checkpoint from logs/qnrf/best.pth
+Testing results: mae: 15.1492 mse: 27.2227 
+Testing results saved to logs/qnrf
+End testing at 2024-11-06 10:27:36
+Start testing at 2024-11-06 10:32:48
+Loading checkpoint from logs/qnrf/best.pth
+Start testing at 2024-11-06 10:47:33
+Loading checkpoint from logs/qnrf/best.pth
+Testing results: mae: 64.8860 mse: 108.7984 
+Testing results saved to logs/qnrf
+End testing at 2024-11-06 10:48:38
+Start testing at 2024-11-06 10:48:56
+Loading checkpoint from logs/qnrf/best.pth
+Testing results: mae: 12.6167 mse: 24.6489 
+Testing results saved to logs/qnrf
+End testing at 2024-11-06 10:51:23
+Start testing at 2024-11-06 18:18:30
+Loading checkpoint from logs/qnrf/best.pth
+Start testing at 2024-11-06 18:20:53
+Loading checkpoint from logs/qnrf/best.pth

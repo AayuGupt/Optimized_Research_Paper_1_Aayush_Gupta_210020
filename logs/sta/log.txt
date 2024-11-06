@@ -1,0 +1,216 @@
+Start training at 2024-10-15 11:39:45
+Start training at 2024-10-15 11:42:58
+Start training at 2024-10-15 11:51:14
+Start training at 2024-10-15 11:58:06
+Start training at 2024-10-15 13:39:54
+Start training at 2024-10-15 13:41:02
+Start testing at 2024-10-15 17:11:08
+Loading checkpoint from logs/sta/best.pth
+Testing results: mae: 11.3939 mse: 389.2817 
+Testing results saved to logs/sta
+End testing at 2024-10-15 17:14:20
+Start testing at 2024-10-15 17:18:10
+Loading checkpoint from logs/sta/best.pth
+Testing results: mae: 11.3939 mse: 389.2817 
+Testing results saved to logs/sta
+End testing at 2024-10-15 17:21:22
+Start testing at 2024-10-15 17:26:54
+Loading checkpoint from logs/sta/best.pth
+Start training at 2024-10-16 01:31:50
+Start training at 2024-10-16 01:34:05
+Start training at 2024-10-16 01:36:34
+Epoch 0: Training loss: 14.6666 Version: sta
+Epoch 0: Val criterion: 237.1735 mse: 76223.7311 best: 10000000000.0000, time: 54.9782
+Epoch 0: saving best model...
+Epoch 1: Training loss: 96.4713 Version: sta
+Epoch 1: Val criterion: 272.9511 mse: 96745.2162 best: 237.1735, time: 51.7933
+Epoch 2: Training loss: 75.4551 Version: sta
+Epoch 2: Val criterion: 182.7003 mse: 57955.8152 best: 237.1735, time: 62.6268
+Epoch 2: saving best model...
+Best epoch: 2, best criterion: 182.7003390625
+Training results saved to logs/sta
+End training at 2024-10-16 01:39:25
+Start testing at 2024-10-16 01:41:11
+Loading checkpoint from logs/sta/best.pth
+Testing results: mae: 89.6499 mse: 13010.9443 
+Testing results saved to logs/sta
+End testing at 2024-10-16 01:44:27
+Start training at 2024-10-17 20:17:18
+Start testing at 2024-10-17 20:20:37
+Loading checkpoint from logs/sta/best.pth
+Testing results: mae: 11.3939 mse: 19.7302 
+Testing results saved to logs/sta
+End testing at 2024-10-17 20:23:50
+Start testing at 2024-10-25 00:44:07
+Loading checkpoint from logs/sta/best.pth
+Testing results: mae: 11.3939 mse: 19.7302 
+Testing results saved to logs/sta
+End testing at 2024-10-25 00:47:52
+Start testing at 2024-10-25 18:47:02
+Loading checkpoint from logs/sta/best.pth
+Start testing at 2024-10-25 18:48:11
+Loading checkpoint from logs/sta/best.pth
+Testing results: mae: 11.3939 mse: 19.7302 
+Testing results saved to logs/sta
+End testing at 2024-10-25 18:50:33
+Start testing at 2024-10-25 18:51:22
+Loading checkpoint from logs/sta/best.pth
+Testing results: mae: 11.3939 mse: 19.7302 
+Testing results saved to logs/sta
+End testing at 2024-10-25 18:53:44
+Start testing at 2024-10-25 18:54:06
+Loading checkpoint from logs/sta/best.pth
+Start testing at 2024-10-25 18:54:42
+Loading checkpoint from logs/sta/best.pth
+Testing results: mae: 11.3939 mse: 19.7302 
+Testing results saved to logs/sta
+End testing at 2024-10-25 18:57:02
+Start testing at 2024-10-25 19:20:32
+Loading checkpoint from logs/sta/best.pth
+Testing results: mae: 11.3939 mse: 19.7302 
+Testing results saved to logs/sta
+End testing at 2024-10-25 19:22:56
+Start testing at 2024-10-25 19:24:08
+Loading checkpoint from logs/sta/best.pth
+Testing results: mae: 11.3939 mse: 19.7302 
+Testing results saved to logs/sta
+End testing at 2024-10-25 19:26:27
+Start testing at 2024-10-25 19:28:33
+Loading checkpoint from logs/sta/best.pth
+Testing results: mae: 78447.7082 mse: 98063.4797 
+Testing results saved to logs/sta
+End testing at 2024-10-25 19:30:51
+Start testing at 2024-10-25 19:32:43
+Loading checkpoint from logs/sta/best.pth
+Testing results: mae: 78447.7082 mse: 98063.4797 
+Testing results saved to logs/sta
+End testing at 2024-10-25 19:35:04
+Start testing at 2024-10-25 19:47:33
+Loading checkpoint from logs/sta/best.pth
+Testing results: mae: 11.3939 mse: 19.7302 
+Testing results saved to logs/sta
+End testing at 2024-10-25 19:49:52
+Start testing at 2024-11-01 13:05:56
+Loading checkpoint from logs/sta/best.pth
+Start testing at 2024-11-01 13:06:52
+Loading checkpoint from logs/sta/best.pth
+Start testing at 2024-11-05 10:11:31
+Loading checkpoint from logs/sta/best.pth
+Start testing at 2024-11-05 11:24:10
+Loading checkpoint from logs/sta/best.pth
+Testing results: mae: 11.3939 mse: 19.7302 
+Testing results saved to logs/sta
+End testing at 2024-11-05 11:26:32
+Start testing at 2024-11-05 11:26:49
+Loading checkpoint from logs/sta/best.pth
+Start testing at 2024-11-05 11:32:15
+Loading checkpoint from logs/sta/best.pth
+Start testing at 2024-11-05 11:34:44
+Loading checkpoint from logs/sta/best.pth
+Start testing at 2024-11-05 11:38:46
+Loading checkpoint from logs/sta/best.pth
+Start testing at 2024-11-05 11:39:56
+Loading checkpoint from logs/sta/best.pth
+Start testing at 2024-11-05 11:40:51
+Loading checkpoint from logs/sta/best.pth
+Testing results: mae: 13.0132 mse: 21.2132 
+Testing results saved to logs/sta
+End testing at 2024-11-05 11:43:19
+Start testing at 2024-11-05 11:43:50
+Loading checkpoint from logs/sta/best.pth
+Start testing at 2024-11-05 11:47:10
+Loading checkpoint from logs/sta/best.pth
+Start testing at 2024-11-05 11:47:47
+Loading checkpoint from logs/sta/best.pth
+Testing results: mae: 123.8003 mse: 156.1303 
+Testing results saved to logs/sta
+End testing at 2024-11-05 11:48:33
+Start testing at 2024-11-05 11:48:53
+Loading checkpoint from logs/sta/best.pth
+Testing results: mae: 123.8003 mse: 156.1303 
+Testing results saved to logs/sta
+End testing at 2024-11-05 11:49:43
+Start testing at 2024-11-05 11:49:59
+Loading checkpoint from logs/sta/best.pth
+Testing results: mae: 119.2256 mse: 151.2966 
+Testing results saved to logs/sta
+End testing at 2024-11-05 11:50:41
+Start testing at 2024-11-05 11:50:53
+Loading checkpoint from logs/sta/best.pth
+Testing results: mae: 119.2256 mse: 151.2966 
+Testing results saved to logs/sta
+End testing at 2024-11-05 11:51:39
+Start testing at 2024-11-05 11:51:50
+Loading checkpoint from logs/sta/best.pth
+Testing results: mae: 97.9050 mse: 126.2923 
+Testing results saved to logs/sta
+End testing at 2024-11-05 11:52:43
+Start testing at 2024-11-05 11:52:58
+Loading checkpoint from logs/sta/best.pth
+Start testing at 2024-11-05 11:53:44
+Loading checkpoint from logs/sta/best.pth
+Start testing at 2024-11-05 11:56:14
+Loading checkpoint from logs/sta/best.pth
+Start testing at 2024-11-05 11:57:21
+Loading checkpoint from logs/sta/best.pth
+Start testing at 2024-11-05 11:59:19
+Loading checkpoint from logs/sta/best.pth
+Start testing at 2024-11-05 12:00:38
+Loading checkpoint from logs/sta/best.pth
+Start testing at 2024-11-05 13:12:32
+Loading checkpoint from logs/sta/best.pth
+Start testing at 2024-11-05 14:20:31
+Loading checkpoint from logs/sta/best.pth
+Start testing at 2024-11-05 14:22:47
+Loading checkpoint from logs/sta/best.pth
+Start testing at 2024-11-05 14:24:18
+Loading checkpoint from logs/sta/best.pth
+Testing results: mae: 97.9050 mse: 126.2923 
+Testing results saved to logs/sta
+End testing at 2024-11-05 14:25:39
+Start testing at 2024-11-05 14:26:13
+Loading checkpoint from logs/sta/best.pth
+Start testing at 2024-11-05 14:28:08
+Loading checkpoint from logs/sta/best.pth
+Start testing at 2024-11-05 14:30:38
+Loading checkpoint from logs/sta/best.pth
+Start testing at 2024-11-05 14:33:37
+Loading checkpoint from logs/sta/best.pth
+Start testing at 2024-11-05 14:37:25
+Loading checkpoint from logs/sta/best.pth
+Start testing at 2024-11-05 14:38:46
+Loading checkpoint from logs/sta/best.pth
+Start testing at 2024-11-05 14:41:51
+Loading checkpoint from logs/sta/best.pth
+Start testing at 2024-11-05 14:57:19
+Loading checkpoint from logs/sta/best.pth
+Testing results: mae: 11.3939 mse: 19.7302 
+Testing results saved to logs/sta
+End testing at 2024-11-05 14:59:39
+Start testing at 2024-11-05 15:03:37
+Loading checkpoint from logs/sta/best.pth
+Testing results: mae: 13.0132 mse: 21.2132 
+Testing results saved to logs/sta
+End testing at 2024-11-05 15:06:03
+Start testing at 2024-11-05 15:47:33
+Loading checkpoint from logs/sta/best.pth
+Testing results: mae: 11.3939 mse: 19.7302 
+Testing results saved to logs/sta
+End testing at 2024-11-05 15:51:54
+Start testing at 2024-11-06 10:19:24
+Loading checkpoint from logs/sta/best.pth
+Testing results: mae: 97.9050 mse: 126.2923 
+Testing results saved to logs/sta
+End testing at 2024-11-06 10:20:21
+Start testing at 2024-11-06 10:40:07
+Loading checkpoint from logs/sta/best.pth
+Testing results: mae: 13.0132 mse: 21.2132 
+Testing results saved to logs/sta
+End testing at 2024-11-06 10:42:35
+Start testing at 2024-11-06 10:43:16
+Loading checkpoint from logs/sta/best.pth
+Testing results: mae: 11.3939 mse: 19.7302 
+Testing results saved to logs/sta
+End testing at 2024-11-06 10:45:42
+Start testing at 2024-11-06 18:22:00
+Loading checkpoint from logs/sta/best.pth
